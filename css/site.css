@@ -27,9 +27,27 @@
     border-bottom:1px dotted #555; 
 }
 #intro .col-md-4{
-    width: 100%;
+    width: 40%;
+}
+#intro .col-md-4 a{
+    color: #2a90d4;
+    display: block;
+    float: right;
+}
+.col-xs-12 ul li{
+    text-align: justify;
+    word-break: break-all;
+    text-justify: inter-ideograph;
+    line-height: 1.7em;
+    font-family: "Georgia", "Times New Roman", "Songti SC", "SimSun", serif;
 }
 #intro{
     margin: 0;
     padding: 0;
+}
+.new1{
+    margin-left: 10%;
+}
+.new2{
+    margin-right: 10%;
 }

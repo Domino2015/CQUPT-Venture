@@ -2,6 +2,7 @@
 
 .sponsorListHolder{
 	margin-bottom:30px;
+	margin-top: 40px;
 }
 
 .sponsor{
@@ -70,7 +71,6 @@
 
 
 /* The styles below are only necessary for the styling of the demo page: */
-
 
 .note{
 	font-size:12px;
